@@ -52,6 +52,8 @@ public class PrincipalEnum {
         System.out.println("Mês inválido");
             break;
        }
+       TamanhoCalca tamanhoCalca = TamanhoCalca.Medio;
+       System.out.println("Tamanho da calça: " + tamanhoCalca.getValor());
     }
  }
     
