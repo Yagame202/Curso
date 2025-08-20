@@ -1,6 +1,5 @@
 package Aula.construtor;
 import Aula.construtor.DiaSemana;
-import Aula.construtor.mes;
 public class PrincipalEnum {
     public static void main(String[] args) {
         DiaSemana diaEscolhido = DiaSemana.DOMINGO;

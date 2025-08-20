@@ -18,7 +18,7 @@ public class Cartao {
         this.tipo = tipo;
     }
 
-    public String getTitular() {
+    public String getTitular() {    
         return titular;
     }
     public void setTitular(String titular) {
